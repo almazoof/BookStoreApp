@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "147891320545",
+    "project_id": "bookstore-f99cb",
+    "storage_bucket": "bookstore-f99cb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147891320545:android:71c2c43d5ae71f004ea9a0",
+        "android_client_info": {
+          "package_name": "com.almazingoff.firebseapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi92nL2MjK8YXVi0KJNfiOhDTsxcC8yT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147891320545:android:6e028be9751ea6ea4ea9a0",
+        "android_client_info": {
+          "package_name": "com.almazingoff.bookstoreapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi92nL2MjK8YXVi0KJNfiOhDTsxcC8yT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
